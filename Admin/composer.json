@@ -1,0 +1,13 @@
+{
+    "require": {
+        "jaeger/querylist": "^4.1",
+        "ext-pdo_mysql": "*"
+    },
+
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    }
+}
